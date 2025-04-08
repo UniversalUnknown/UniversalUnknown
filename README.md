@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text= Hi there 👋 &animation=fadeIn&type=waving&color=auto&height=100"/>
+</p>
 
 **UniversalUnknown/UniversalUnknown**
 
@@ -7,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Your Ip addr is 192.168.1.1 and your mask is 255.255.255.0,
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="100" src="https://wallpapers.com/images/hd/anime-girl-peace-aesthetic-discord-pfp-zaap6gdb3solcybp.jpg"/>
+  <img height="100" style="margin-top: 100;" src="https://wallpapers.com/images/hd/anime-girl-peace-aesthetic-discord-pfp-zaap6gdb3solcybp.jpg"/>
 </a>
 
 <p align="center">
