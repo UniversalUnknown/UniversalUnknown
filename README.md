@@ -1,8 +1,8 @@
 <p align="center">
   <link rel="stylesheet" href= />
-  <img src="https://capsule-render.vercel.app/api?text=Welcome&animation=fadeIn&type=waving&color=gradient&height=130"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome&animation=fadeIn&type=venom&color=gradient&height=130"/>
 </p>
-UniversalUnknown/UniversalUnknown
+UniversalUnknown/UniversalUnknown 
 
 - 🌱 I’m currently learning Java, Rust and Go.
 - 📫 How to reach me: Find me if you can.
