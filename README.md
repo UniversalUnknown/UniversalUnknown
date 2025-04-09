@@ -1,12 +1,12 @@
 <p align="center">
   <link rel="stylesheet" href= />
-  <img src="https://capsule-render.vercel.app/api?text=Welcome&animation=fadeIn&type=venom&color=gradient&height=130"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi Gamers&animation=fadeIn&type=venom&color=gradient&height=130"/>
 </p>
-UniversalUnknown/UniversalUnknown 
+<h2>UniversalUnknown/UniversalUnknown</h2> 
+    <img allign="right" height="150" src="https://wallpapers.com/images/hd/anime-girl-peace-aesthetic-discord-pfp-zaap6gdb3solcybp.jpg"/>
 
 - 🌱 I’m currently learning Java, Rust and Go.
 - 📫 How to reach me: Find me if you can.
 - ⚡ Fun fact: Your Ip addr is 192.168.1.1 and your mask is 255.255.255.0.
 <p align="right">
-    <img allign="right" height="150" src="https://wallpapers.com/images/hd/anime-girl-peace-aesthetic-discord-pfp-zaap6gdb3solcybp.jpg"/>
 </p>
