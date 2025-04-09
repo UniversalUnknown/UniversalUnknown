@@ -8,5 +8,5 @@ UniversalUnknown/UniversalUnknown
 - 📫 How to reach me: Find me if you can.
 - ⚡ Fun fact: Your Ip addr is 192.168.1.1 and your mask is 255.255.255.0.
 <p align="right">
-    <img height="300" style="margin-right: 100;" src="https://wallpapers.com/images/hd/anime-girl-peace-aesthetic-discord-pfp-zaap6gdb3solcybp.jpg"/>
+    <img allign="right" height="150" src="https://wallpapers.com/images/hd/anime-girl-peace-aesthetic-discord-pfp-zaap6gdb3solcybp.jpg"/>
 </p>
