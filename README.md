@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text="Hi 👋, I'm MS"%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi 👋, I'm MS%20render&fontSize=90" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=universalunknown&label=Profile%20views&color=000000&style=flat" alt="universalunknown" /> </p>
 
-  <img allign="right" height="150" src="https://wallpapers.com/images/hd/anime-girl-peace-aesthetic-discord-pfp-zaap6gdb3solcybp.jpg"/>
+  <img allign="right" height="170" src="https://wallpapers.com/images/hd/anime-girl-peace-aesthetic-discord-pfp-zaap6gdb3solcybp.jpg"/>
 
 - 🌱 I’m currently learning **Java, Rust and Go.**
 
