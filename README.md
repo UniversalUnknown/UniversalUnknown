@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=180&section=header&text=??%20H??i%20👋,%20I'm%20MS%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=180&section=header&text=Hi%20👋,%20I'm%20MS&render&fontSize=90)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=universalunknown&label=Profile%20views&color=000000&style=flat" alt="universalunknown" /> </p>
 
   <img allign="right" height="170" src="https://wallpapers.com/images/hd/anime-girl-peace-aesthetic-discord-pfp-zaap6gdb3solcybp.jpg"/>
