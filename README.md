@@ -11,10 +11,10 @@
 
 - ⚡ Fun fact **There's nothing fun in facts.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">(Don't)Check me on:</h3>
 <p align="left">
-<a href="https://codepen.io/@universalunknown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@universalunknown" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/universalunknown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="universalunknown" height="30" width="40" /></a>
+<a href="https://codepen.io/UniversalUnknown" target="blank"><img align="center" src="https://img.icons8.com/?size=512w&id=cHTmsQ6hg8tj&format=png" alt="@universalunknown" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/universalunknown/" target="blank"><img align="center" src="https://img.icons8.com/?size=512w&id=wDGo581Ea5Nf&format=png" alt="universalunknown" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
