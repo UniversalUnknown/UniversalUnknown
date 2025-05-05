@@ -7,9 +7,9 @@
 
 - 📝 I regularly read articles on **Hacking && Vulnerability**
 
-- 💬 Ask me about **Linux and Coding Languages**
+- 💬 Ask me about **Linux && Coding Languages**
 
-- ⚡ Fun fact **Your Ip addr is 192.168.1.1 and your mask is 255.255.255.0.**
+- ⚡ Fun fact **There's nothing fun in facts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
