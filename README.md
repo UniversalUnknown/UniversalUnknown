@@ -22,7 +22,7 @@
 
 <sub> Migrating from MySQL to MongoDB </sub>
 
-h3 align="left">Desktop used/using:</h3>
+h3 align="left"> Desktop used/using: </h3>
 <p align="left">
 <a href="https://www.linuxmint.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="linux" height="30" width="40" /></a>
 <a href="https://fedoraproject.org/" target="blank"><img align="center" src="https://www.svgrepo.com/show/354990/fedora.svg" alt="linux" height="30" width="40" /></a>
