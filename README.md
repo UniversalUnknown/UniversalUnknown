@@ -7,7 +7,7 @@
 * I learn most of these including few language all by myself *
 ```
 
-- 🌱 I’m currently learning ** Rust, Go. **
+- 🌱 I’m currently learning **Rust, Go.**
 
 - 📝 I regularly read articles on **Hacking && Vulnerability**
 
