@@ -27,8 +27,8 @@
 <a href="https://fedoraproject.org/" target="blank"><img align="center" src="https://www.svgrepo.com/show/354990/fedora.svg" alt="linux" height="30" width="40" /></a>
 <a href="https://mxlinux.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/MX_Linux_logo.svg" alt="linux" height="30" width="40" /></a>
 </p>
-<a href="https://archlinux.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Archlinux-logo-standard-version.svg" alt="linux" height="30" width="80" /></a> <a href="https://www.freebsd.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/FreeBSD_Foundation_logo.svg" alt="freebsd" height="40" width="60" /></a><a href="https://kali.org" target="blank"><img align="center" src=""https://img.icons8.com/?size=100&id=101665&format=png&color=000000 alt="linux" height="30" width="40" /></a>
-<a href=""https://www.parrotsec.org/ target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9AGJqJd3YEdk&format=png&color=000000" alt="linux" height="30" width="80" /></a>
+<a href="https://archlinux.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Archlinux-logo-standard-version.svg" alt="linux" height="30" width="80" /></a> <a href="https://www.freebsd.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/FreeBSD_Foundation_logo.svg" alt="freebsd" height="40" width="60" /></a><a href="https://kali.org" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="linux" height="30" width="40" /></a>
+<a href=""https://www.parrotsec.org/ target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9AGJqJd3YEdk&format=png&color=000000" alt="linux" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
