@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=210&section=header&text=Hi%20👋,%20I'm%20MS-nl-a.k.a%20Red&render&fontSize=80)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=universalunknown&label=Profile%20views&color=000000&style=flat" alt="universalunknown" /> </p>
 
+https://capsule-render.vercel.app/api?type=blur&height=150&color=timeAuto&text=This%20is%20portfolio-nl-of%20electrical%20engineers&section=footer&animation=blinking&fontSize=50&textBg=false&fontAlign=49
+
   <img allign="left" height="170" src="assest/images/68747470733a2f2f77616c6c7061706572732e636f6d2f696d616765732f68642f616e696d652d6769726c2d70656163652d6165737468657469632d646973636f72642d7066702d7a6161703667646233736f6c637962702e6a7067.jpg"/>
 
 ```yaml
-* I learn most of these including few language all by myself *
+I learn most of these including few language all by myself
 ```
 
 - 🌱 I’m currently learning **Rust, Go.**
@@ -27,7 +29,7 @@
 <a href="https://fedoraproject.org/" target="blank"><img align="center" src="https://www.svgrepo.com/show/354990/fedora.svg" alt="linux" height="30" width="40" /></a>
 <a href="https://mxlinux.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/MX_Linux_logo.svg" alt="linux" height="30" width="40" /></a>
 </p>
-<a href="https://archlinux.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Archlinux-logo-standard-version.svg" alt="linux" height="30" width="80" /></a> <a href="https://www.freebsd.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/FreeBSD_Foundation_logo.svg" alt="freebsd" height="40" width="60" /></a><a href="https://kali.org" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="linux" height="30" width="40" /></a>
+<a href="https://archlinux.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Archlinux-logo-standard-version.svg" alt="linux" height="30" width="80" /></a> <a href="https://www.freebsd.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/FreeBSD_Foundation_logo.svg" alt="freebsd" height="40" width="60" /></a><a href="https://kali.org" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="linux" height="30" width="35" /></a>
 <a href=""https://www.parrotsec.org/ target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9AGJqJd3YEdk&format=png&color=000000" alt="linux" height="30" width="40" /></a>
 
 
