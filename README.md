@@ -9,11 +9,11 @@
 I learn most of these including few language all by myself
 ```
 
-- 🌱 I’m currently learning **Rust, Go.**
+- 🌱 I’m currently learning **Rust, Go and R.**
 
 - 📝 I regularly read articles on **Hacking && Vulnerability**
 
-- 💬 Ask me about **Linux && Coding Languages**
+- 💬 Ask me about **Linux && Coding Languages.**
 
 - ⚡ Fun fact **There's nothing fun in facts.**
 
