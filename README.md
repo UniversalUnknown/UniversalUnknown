@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=210&section=header&text=Hi%20👋,%20I'm%20MS-nl-a.k.a%20Red&render&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=venom&color=white&height=210&section=header&text=Hi%20👋,%20I'm%20MS-nl-a.k.a%20Red&render&fontSize=80)
 
 ![footer](https://capsule-render.vercel.app/api?type=blur&height=150&color=timeAuto&text=This%20is%20a%20portfolio-nl-of%20electrical%20engineer%20student&section=footer&animation=blinking&fontSize=50&textBg=false&fontAlign=49)
 
