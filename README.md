@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=white&height=210&section=header&text=Hi%20👋,%20I'm%20MS-nl-a.k.a%20Red&render&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=210&section=header&text=Hi%20👋,%20I'm%20MS-nl-a.k.a%20Red&render&fontSize=80)
 
-![footer](https://capsule-render.vercel.app/api?type=blur&height=150&color=timeAuto&text=This%20is%20a%20portfolio-nl-of%20electrical%20engineer%20student&section=footer&animation=blinking&fontSize=50&textBg=false&fontAlign=49)
+![footer](https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=This%20is%20a%20portfolio-nl-of%20electrical%20engineer%20student&section=footer&animation=blinking&fontSize=50&textBg=false&fontAlign=49)
 
   <img allign="left" height="170" src="assest/images/68747470733a2f2f77616c6c7061706572732e636f6d2f696d616765732f68642f616e696d652d6769726c2d70656163652d6165737468657469632d646973636f72642d7066702d7a6161703667646233736f6c637962702e6a7067.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=universalunknown&label=Profile%20views&color=000000&style=flat" alt="universalunknown" /> </p>
