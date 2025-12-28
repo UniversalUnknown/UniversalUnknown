@@ -1,6 +1,6 @@
-![header](assest/images/card.png)
+![header](assest/images/top.png)
 
-![footer](https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=This%20is%20a%20portfolio-nl-of%20electrical%20engineer%20student&section=footer&animation=twinkling&fontSize=50&textBg=false&fontAlign=49)
+![footer](assest/images/bottom.png)
 
 
 <div align="left">
